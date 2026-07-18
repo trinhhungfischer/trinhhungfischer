@@ -64,7 +64,7 @@ I am a **Technical Game Designer**, focusing on the architecture behind the fun.
 
 <div align="center">
   <h3><code>> DATA_ANALYTICS</code></h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=trinhhungfischer&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=39ff14&icon_color=00ffff&text_color=aaaaaa" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trinhhungfischer&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a" alt="GitHub Stats" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=trinhhungfischer&color=39ff14&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
