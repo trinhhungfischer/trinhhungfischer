@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="#0a0a0a" />
+  
+  <text x="40" y="70" font-family="'Courier New', Courier, monospace" font-size="36" font-weight="bold" fill="#ff00ff" filter="url(#glow)">
+    &gt;&gt; PROJECT_SHOWCASE
+  </text>
+  
+  <!-- Line separator -->
+  <line x1="40" y1="90" x2="1160" y2="90" stroke="#ff00ff" stroke-width="2" stroke-dasharray="10 5" opacity="0.6"/>
+</svg>

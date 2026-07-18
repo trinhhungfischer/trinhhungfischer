@@ -1,46 +1,42 @@
-### Hi there 👋
-- 🔭 I’m currently working on everything
-- 🌱 I’m currently learning at HUST
-- 👯 I’m looking to collaborate on Game Developer
-- 🤔 I’m looking for help with Game Graphic
-- 💬 Ask me about anything
-- 📫 How to reach me: trinhhungfischer@gmail.com
-- ⚡ Fun fact: UwU
-
 <div align="center">
   <img src="assets/readme/hero.svg" width="100%" alt="Trinh Hung Fischer - Technical Game Designer" />
 </div>
 
 ## `[ SYSTEM._BOOTING... ]`
 
-Hi there, I'm **Trinh Hung**. 
+Hi there, I'm **Trinh Hung Fischer**. 
 
-I am a **Technical Game**, focusing on the architecture behind the fun. While I have a keen eye for design, my true passion lies in building robust gameplay systems, architecting mechanics, game balancing and writing code that brings game worlds to life.
+I am a **Technical Game Designer**, focusing on the architecture behind the fun. While I have a keen eye for design, my true passion lies in building robust gameplay systems, architecting mechanics, and writing code that brings game worlds to life.
 
-- 🎲 **Focus**: Core Gameplay Mechanics, Game Balancing, Tools Programming.
-- 🎮 **Portfolio**: trinhhungfischer.github.io
-- 📫 **Contact**: trinhhungfischer@gmail.com
+- 🎲 **Focus**: Core Gameplay Mechanics, Systems Architecture, Tools Programming.
+- 🎮 **Portfolio**: [Insert Portfolio Link Here]
+- 📫 **Contact**: [Insert Email / LinkedIn Here]
+
 ---
 
 <img src="assets/readme/header_tech.svg" width="100%" alt="Tech Stack and Tools" />
 
 ### `> Languages & Frameworks`
+- **C# / .NET** - (Primary language for Unity)
+- **C++** - (Core systems, Unreal Engine)
 - **Python** - (Tooling, Scripting)
 - **GDScript** - (Godot Engine)
 
 ### `> Game Engines`
-- **Unity 3D/2D** (Expertise in MonoBehaviour)
+- **Unity 3D/2D** (Expertise in MonoBehaviour, ECS, Custom Editor Tools)
+- **Unreal Engine** (Blueprints & C++)
 - **Godot** (Prototyping & System Design)
 
 ### `> Workflows & Version Control`
 - Git, GitHub, Perforce
+- CI/CD for Game Builds
 - Agile / Scrum Methodologies
 
 ---
 
 <img src="assets/readme/header_showcase.svg" width="100%" alt="Project Showcase" />
 
-> **[Feature Project]**
+> **[ PLACEHOLDER - AWAITING DATA INPUT ]**
 > 
 > *Showcase sections will be populated with technical breakdowns of game systems, architecture diagrams, and tool scripts.*
 

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#0a0a0a" />
+  <rect width="100%" height="100%" fill="url(#grid)" />
+
+  <!-- CRT Screen Border -->
+  <rect x="20" y="20" width="1160" height="360" fill="none" stroke="#39ff14" stroke-width="3" rx="15" stroke-dasharray="10 5" opacity="0.5"/>
+  <rect x="30" y="30" width="1140" height="340" fill="none" stroke="#39ff14" stroke-width="1" rx="10" opacity="0.3"/>
+
+  <!-- Main Text Content -->
+  <g transform="translate(80, 160)">
+    <text x="0" y="0" font-family="'Courier New', Courier, monospace" font-size="58" font-weight="bold" fill="#39ff14" filter="url(#glow)">
+      &gt; TRINH HUNG FISCHER_
+    </text>
+    <text x="0" y="60" font-family="'Courier New', Courier, monospace" font-size="28" fill="#ff00ff" filter="url(#glow)">
+      [ TECHNICAL GAME DESIGNER ]
+    </text>
+    <text x="0" y="110" font-family="'Courier New', Courier, monospace" font-size="20" fill="#aaaaaa">
+      SYSTEMS | ARCHITECTURE | MECHANICS
+    </text>
+    
+    <text x="0" y="160" font-family="'Courier New', Courier, monospace" font-size="18" fill="#555555" font-style="italic">
+      PRESS START TO CONTINUE...
+    </text>
+  </g>
+
+  <!-- ASCII Art Sword / Tech Graphic -->
+  <g transform="translate(720, 100)">
+    <text x="0" y="0" font-family="'Courier New', Courier, monospace" font-size="22" fill="#00ffff" xml:space="preserve" filter="url(#glow)">
+       ______________________________________
+      /                                      \
+     |    _/_/_/_/  _/_/_/_/  _/_/_/_/        |
+     |   _/        _/        _/               |
+     |  _/_/_/_/  _/_/_/_/  _/_/_/_/          |
+     | _/        _/        _/                 |
+     |_/        _/_/_/_/  _/_/_/_/            |
+     |                                        |
+      \______________________________________/
+    </text>
+  </g>
+  
+  <g transform="translate(900, 240)">
+    <text x="0" y="0" font-family="'Courier New', Courier, monospace" font-size="20" fill="#ffaa00" xml:space="preserve" filter="url(#glow)">
+        |>
+        |&gt;
+      /===/
+      |* |
+      \===\
+        |
+    </text>
+  </g>
+</svg>
